@@ -1,0 +1,13 @@
+package com.example.pocsimplespring;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class PocSimpleSpringApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
